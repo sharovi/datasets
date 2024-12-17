@@ -3,7 +3,7 @@
 ### Documentation for `M a c y s (USA) dataset`
 
 Key highlights:
-  - 47,338 product line items
+  - 47,338 product line items (All inventory as of December 2024)
   - 45+ unique categories of products, 144 secondary categories
   - Detailed product description that can be used for GenAI traning
   - Dataset generated on Dec 2024, however fresh data can be made available on demand
